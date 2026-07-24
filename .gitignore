@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.forgemaster_*.json
+.liquid_memory.json
+.forge_log.json
+.skills/
+.dreams/
+ace_state/
+*.tmp
